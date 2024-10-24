@@ -3,7 +3,8 @@
 
 Este é um sistema básico de login e registro de usuários construído em PHP. Ele permite que os usuários façam login, se registrem e armazenem informações de cartões de crédito de forma criptografada. 
 
-![login-page-demo](images/login-demo.png)
+![image](https://github.com/user-attachments/assets/57745878-e173-4235-b660-ac830a0749ee)
+
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -13,12 +14,18 @@ Este é um sistema básico de login e registro de usuários construído em PHP. 
 - **Bootstrap**: Framework CSS para estilização.
 - **jQuery**: Biblioteca JavaScript utilizada para mascarar campos de CPF e cartões de crédito.
 
+![image](https://github.com/user-attachments/assets/65cd5c59-5a6d-4f5b-81a5-4b68e9eb6b9c)
+
 ## ⚙️ Funcionalidades
+
+![image](https://github.com/user-attachments/assets/b922ab01-8cfd-49c7-adc0-6368e4c0d23c)
 
 - Registro de usuário com CPF e senha.
 - Login com validação de CPF e senha criptografada.
 - Armazenamento seguro de informações de cartão de crédito (número do cartão e CVV são criptografados).
 - Simulação divertida para descobrir o signo do usuário.
+
+![image](https://github.com/user-attachments/assets/33f2c147-e8b7-4cbc-aebd-b29c4efed478)
 
 ## 🚀 Executando o Projeto
 
