@@ -18,12 +18,12 @@ Este é um sistema básico de login e registro de usuários construído em PHP. 
 
 ## ⚙️ Funcionalidades
 
-![image](https://github.com/user-attachments/assets/b922ab01-8cfd-49c7-adc0-6368e4c0d23c)
-
 - Registro de usuário com CPF e senha.
 - Login com validação de CPF e senha criptografada.
 - Armazenamento seguro de informações de cartão de crédito (número do cartão e CVV são criptografados).
 - Simulação divertida para descobrir o signo do usuário.
+
+ ![image](https://github.com/user-attachments/assets/b922ab01-8cfd-49c7-adc0-6368e4c0d23c)
 
 ![image](https://github.com/user-attachments/assets/33f2c147-e8b7-4cbc-aebd-b29c4efed478)
 
